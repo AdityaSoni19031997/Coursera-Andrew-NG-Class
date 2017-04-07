@@ -8,3 +8,6 @@ My ex1 is equivalent to Week 2 assignments.
 My ex2 is equivalent to Week 3 assignments.
 My ex3 is equivalent to Week 4 assignments.
 My ex4 is equivalent to Week 5 assignments.
+
+
+#Solutions In Python Is a work in Progress...
